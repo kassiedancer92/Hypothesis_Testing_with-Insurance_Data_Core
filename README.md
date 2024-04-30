@@ -2,9 +2,9 @@
 
 
 ### Answer the following Questions:
-Q1. Do smokers have higher insurance charges than non-smokers?
-Q2. Are men more likely to smoke than women?
-Q3. Do different regions have different charges, on average?
+ Q1. Do smokers have higher insurance charges than non-smokers?
+ Q2. Are men more likely to smoke than women?
+ Q3. Do different regions have different charges, on average?
 
 
 ### Question 1: 
